@@ -1,0 +1,28 @@
+{
+  "devDependencies": {
+    "@babel/cli": "^7.23.9",
+    "@babel/core": "^7.23.9",
+    "@babel/preset-env": "^7.23.9"
+  },
+  "dependencies": {
+    "core-js": "^3.35.1"
+  },
+  "name": "2.-babel",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lozick13/babel.git"
+  },
+  "author": "Lozick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lozick13/babel/issues"
+  },
+  "homepage": "https://github.com/Lozick13/babel#readme"
+}
